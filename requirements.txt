@@ -1,0 +1,6 @@
+streamlit>=1.40
+numpy
+pandas
+pillow
+google-genai
+supabase
