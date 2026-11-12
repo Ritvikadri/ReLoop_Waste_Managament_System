@@ -1,6 +1,5 @@
 """
-ReLoop: Smart Circular Marketplace (Team Sutra, Ideathon 2026)
-Run locally:  streamlit run app.py
+ReLoop: Smart Circular
 """
 import base64
 import hashlib
